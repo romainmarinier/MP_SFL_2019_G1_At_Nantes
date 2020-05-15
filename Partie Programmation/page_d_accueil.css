@@ -1,0 +1,96 @@
+*
+{
+	color : white;
+	font-family: Arial, Impact, Georgia, Serif; 
+}
+
+/* Début codage En-tête du site */
+header
+{
+	background: rgb(134,0,0);
+	display: flex; /* Pour mettre logo et menu navigation à coté */
+	width: 1442px; /* Défini la largeur */
+	height: 100px; /* Défini la hauteur */
+	margin-left: -10px;
+	margin-top: -10px;
+	overflow: hidden;
+	align-items: center; /* Centre les éléments de l'en-tête au centre */
+}
+
+nav ul
+{
+    display: flex; /* Pour mettre les éléments du menu de navigation à coté */
+    list-style-type: none; /* Pour enlever le soulignagne présent sous éléments menu de navigation */
+}
+
+nav li
+{
+	margin-right: 50px; /* Espace entre les différents éléments du menu de navigation */
+}
+
+a
+{
+	text-decoration: none; /* Enlève le soulignagne automatiques des liens */
+}
+/* Fin codage En-tête site */
+
+
+
+
+/* Début codage du Bloc Principal */
+
+#bloc_principal
+{
+	width: 1442px;
+	height: 630px;
+	margin-left: -10px;
+}
+
+/* Fin codage du Bloc Principal */
+
+
+
+/* Début codage pied de page du site */
+
+footer
+{
+	width: 1442px;
+	height: 108px;
+	background: rgb(134,0,0);
+	margin-left: -10px;
+	align-items: center; /* Centre les éléments du pied de page au centre */
+}
+
+#Bloc_entier
+{
+	display: flex;
+	height: 108px;
+	width: 1442px;
+}
+
+#Bloc_gauche
+{
+	display: flex;
+	background: rgb(134,0,0);
+	width: 500px;
+	align-items: center;
+	justify-content: center;
+}
+
+#Bloc_droite
+{
+	display: flex;
+	background: rgb(33,33,33);
+	width: 942px;
+	align-items: center;
+	justify-content: center;
+
+
+
+
+
+
+
+
+
+
