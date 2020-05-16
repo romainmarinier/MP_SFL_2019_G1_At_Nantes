@@ -1,19 +1,19 @@
 *
 {
-	color : white;
-	font-family: Arial, Impact, Georgia, Serif; 
+	color : white; /* Tout le texte du site sera écrit en blanc */
+	font-family: Arial, Impact, Georgia, Serif; /* La police d'écriture sera l'Arial en priotité puis l'Impact etc... */
 }
 
 /* Début codage En-tête du site */
 header
 {
-	background: rgb(134,0,0);
+	background: rgb(134,0,0); /* Couleur du fond d'écran */
 	display: flex; /* Pour mettre logo et menu navigation à coté */
 	width: 1442px; /* Défini la largeur */
 	height: 100px; /* Défini la hauteur */
-	margin-left: -10px;
-	margin-top: -10px;
-	overflow: hidden;
+	margin-left: -10px; /* Marge négative à gauche pour que le site occuppe tout l'espace du navigateur */
+	margin-top: -10px; /* Marge négative àau dessus pour que le site occuppe tout l'espace du navigateur */
+	overflow: hidden; /* Indique que tous les éléments qui dépasse du header seront coupés */
 	align-items: center; /* Centre les éléments de l'en-tête au centre */
 }
 
@@ -42,27 +42,27 @@ a
 
 .conteneur1
 {
-	width: 1442px;
-	height: 630px;
+	width: 1442px;                           
+	height: 630px;                  /* conteneur1 est de la taille de la partie visible à l'écran */
 	margin-left: -10px;
-	overflow : hidden;
+	overflow : hidden; /* Indique que tous les éléments qui dépasse du conteneur seront coupés */
 }
 
 .bloc_principal
 {
-	width: 5768px;
+	width: 5768px;         /* bloc_principal est de la taille de l'image qui sera appliqué en fond */
 	height: 630px;
-	background: url("/Users/romainmarinier/Documents/GitHub/MP_SFL_2019_G1_At_Nantes/Photos présentes sur site/Page d'accueil.png");
-	animation: defilement1 15s linear infinite;
+	background: url("/Users/romainmarinier/Documents/GitHub/MP_SFL_2019_G1_At_Nantes/Photos présentes sur site/Page d'accueil.png"); /* Image affiché en fond */
+	animation: defilement1 15s linear infinite;  /* Active l'animation "defilement1" pour une durée de 15secondes et se répète à l'infini */
 	background-size: contain;
 }
 
- @keyframes defilement1
+ @keyframes defilement1 
 {
-	0%{transform: translate(0,0);}
+	0%{transform: translate(0,0);} 
 	25%{transform: translate(0,0);}
 	26%{transform: translate(-1440px,0);}
-	50%{transform: translate(-1440px,0);}
+	50%{transform: translate(-1440px,0);}       /* Animation qui permet le défilement d'image */
 	51%{transform: translate(-2880px,0);}
 	75%{transform: translate(-2880px,0);}
 	76%{transform: translate(-4300px,0);}
@@ -76,9 +76,9 @@ a
 
 footer
 {
-	width: 1442px;
+	width: 1442px;   /* Définit la taille du pied de page */
 	height: 108px;
-	background: rgb(134,0,0);
+	background: rgb(134,0,0); /* Couleur 
 	margin-left: -10px;
 	align-items: center; /* Centre les éléments du pied de page au centre */
 }
@@ -109,8 +109,7 @@ footer
 }
 
 
-
-
+/* Début codage pied de page du site */
 
 
 
