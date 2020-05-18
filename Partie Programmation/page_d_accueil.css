@@ -77,7 +77,7 @@ a
 footer
 {
 	width: 1442px;   /* Définit la taille du pied de page */
-	height: 155px;
+	height: 145px;
 	background: rgb(134,0,0); /* Couleur du pied de page */
 	margin-left: -10px;
 	margin-top: -10px;
@@ -87,7 +87,7 @@ footer
 #Bloc_entier
 {
 	display: flex;
-	height: 155px;
+	height: 145px;
 	width: 1442px;
 }
 
