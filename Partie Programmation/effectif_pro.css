@@ -102,20 +102,21 @@ a
 	margin-left: -10px; /* Marge négative à gauche pour que le site occuppe tout l'espace du navigateur */
 	display: flex;
 	align-items: center;
-
 }
 
 .element5
 {
 	color: rgb(33,33,33);
 	font-size: 30px;
-	align-self: flex-start; /* Seul ce bloc sera aligné à la fin */
+	align-self: flex-start; /* Seul ce bloc sera aligné au début */
 	margin-top: 30px;
+	margin-left: 30px;
 }
 
 .element6
 {
 	margin-right: 20px;
+	margin-left: 50px;
 }
 
 .element7
@@ -129,22 +130,129 @@ a
 }
 
 
+#defenseurs
+{
+	width: 1442px; /* Défini la largeur */
+	height: 500px; /* Défini la hauteur */
+	background: rgb(242,242,242);
+	margin-left: -10px; /* Marge négative à gauche pour que le site occuppe tout l'espace du navigateur */
+	display: flex;
+	align-items: center;
+}
+
+.element9
+{
+	color: rgb(33,33,33);
+	font-size: 30px;
+	align-self: flex-start; /* Seul ce bloc sera aligné au début */
+	margin-top: 30px;
+	margin-left: 30px;
+}
+
+.element10
+{
+	margin-right: 20px;
+}
+
+
+.element11
+{
+	margin-right: 20px;
+}
+
+
+.element12
+{
+	margin-right: 20px;
+}
+
+
+.element13
+{
+	margin-right: 20px;
+}
+
+#milieux
+{
+	width: 1442px; /* Défini la largeur */
+	height: 500px; /* Défini la hauteur */
+	background: rgb(242,242,242);
+	margin-left: -10px; /* Marge négative à gauche pour que le site occuppe tout l'espace du navigateur */
+	display: flex;
+	align-items: center;
+}
+
+.element14
+{
+	color: rgb(33,33,33);
+	font-size: 30px;
+	align-self: flex-start; /* Seul ce bloc sera aligné au début */
+	margin-top: 30px;
+	margin-left: 30px;
+}
+
+.element15
+{
+	margin-left: 80px;
+	margin-right: 20px;
+}
+
+.element16
+{
+	margin-right: 20px;
+}
+
+.element17
+{
+	margin-right: 20px;
+}
+
+.element18
+{
+	margin-right: 20px;
+}
+
+
+#attaquants
+{
+	width: 1442px; /* Défini la largeur */
+	height: 500px; /* Défini la hauteur */
+	background: rgb(242,242,242);
+	margin-left: -10px; /* Marge négative à gauche pour que le site occuppe tout l'espace du navigateur */
+	display: flex;
+	align-items: center;
+}
+
+.element19
+{
+	color: rgb(33,33,33);
+	font-size: 30px;
+	align-self: flex-start; /* Seul ce bloc sera aligné au début */
+	margin-top: 30px;
+	margin-left: 30px;
+}
+
+
+.element20
+{
+	margin-right: 20px;
+}
 
 
 
+.element21
+{
+	margin-right: 20px;
+}
 
 
+.element22
+{
+	margin-right: 20px;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
+.element23
+{
+	margin-right: 20px;
+}
 
