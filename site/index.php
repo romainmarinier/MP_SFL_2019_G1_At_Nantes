@@ -1,5 +1,5 @@
             <?php
-            $page="accueil";
+            $page="Le Site Officiel";
             include 'header.inc.php';
             ?>
 
