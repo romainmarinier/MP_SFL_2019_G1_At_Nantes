@@ -12,6 +12,7 @@
          <link rel="stylesheet" href="css/index.css" />
          <link rel="stylesheet" href="css/effectif_pro.css" />
          <link rel="stylesheet" href="css/histoire.css" />
+         <link rel="stylesheet" href="css/photo.css" />
         <title> Atlético Nantais - <?php echo $page; ?> </title>
     </head>
 
