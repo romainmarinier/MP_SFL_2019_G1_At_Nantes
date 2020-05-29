@@ -1,0 +1,81 @@
+
+
+/* Début codage du Bloc Principal */
+
+
+.conteneur1
+{
+	width: 1442px;                           
+	height: 630px;                  /* conteneur1 est de la taille de la partie visible à l'écran */
+	margin-left: -10px;
+	overflow : hidden; /* Indique que tous les éléments qui dépasse du conteneur seront coupés */
+}
+
+.bloc_principal
+{
+	width: 5768px;         /* bloc_principal est de la taille de l'image qui sera appliqué en fond */
+	height: 630px;
+	background: url("Page d'accueil.png"); /* Image affiché en fond */
+	animation: defilement1 15s linear infinite;  /* Active l'animation "defilement1" pour une durée de 15secondes et se répète à l'infini */
+	background-size: contain;
+}
+
+ @keyframes defilement1 
+{
+	0%{transform: translate(0,0);} 
+	25%{transform: translate(0,0);}
+	26%{transform: translate(-1460px,0);}
+	50%{transform: translate(-1460px,0);}       /* Animation qui permet le défilement d'image */
+	51%{transform: translate(-2926px,0);}
+	75%{transform: translate(-2926px,0);}
+	76%{transform: translate(-4320px,0);}
+	100%{transform: translate(-4320px,0);}
+}
+/* Fin codage du Bloc Principal */
+
+
+
+/* Début codage pied de page du site */
+
+footer
+{
+	width: 1442px;   /* Définit la taille du pied de page */
+	height: 145px;
+	background: rgb(134,0,0); /* Couleur du pied de page */
+	margin-left: -10px;
+	margin-top: -10px;
+	align-items: center; /* Centre les éléments du pied de page au centre */
+}
+
+#Bloc_entier
+{
+	display: flex;
+	height: 145px;
+	width: 1442px;
+}
+
+#Bloc_gauche
+{
+	display: flex;
+	background: rgb(134,0,0);
+	width: 500px;
+	align-items: center;
+	justify-content: center;
+}
+
+#Bloc_droite
+{
+	display: flex;
+	background: rgb(33,33,33);
+	width: 942px;
+	align-items: center;
+	justify-content: center;
+}
+
+
+/* Début codage pied de page du site */
+
+
+
+
+
