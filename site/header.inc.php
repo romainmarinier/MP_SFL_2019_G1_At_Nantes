@@ -9,14 +9,16 @@
     <head>
         <meta charset="utf-8" />
          <link rel="stylesheet" href="css/main.css" />
-          <link rel="stylesheet" href="css/index.css" />
+         <link rel="stylesheet" href="css/index.css" />
+         <link rel="stylesheet" href="css/effectif_pro.css" />
+         <link rel="stylesheet" href="css/histoire.css" />
         <title> Atlético Nantais - <?php echo $page; ?> </title>
     </head>
 
     <body>
         	<header>
         		<div id="logo">
-        			<div class="le_logo"> <img src="img/logoatleticonantais.png">  </div>
+        			<div class="le_logo"> <a href="index.php";> <img src="img/logoatleticonantais.png"></a>  </div>
         		</div>
 
         		<nav>
