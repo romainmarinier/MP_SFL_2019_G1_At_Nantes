@@ -15,7 +15,7 @@
 {
 	width: 5768px;         /* bloc_principal est de la taille de l'image qui sera appliqué en fond */
 	height: 630px;
-	background: url("Page d'accueil.png"); /* Image affiché en fond */
+	background: url("img/defilement.png"); /* Image affiché en fond */
 	animation: defilement1 15s linear infinite;  /* Active l'animation "defilement1" pour une durée de 15secondes et se répète à l'infini */
 	background-size: contain;
 }
