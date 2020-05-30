@@ -18,7 +18,7 @@
 
     <body>
         	<header>
-                <div id="conteneur2">
+                
         		<div id="logo">
         			<div class="le_logo"> <a href="index.php";> <img src="img/logoatleticonantais.png"></a>  </div>
         		</div>
@@ -33,5 +33,5 @@
         			</ul>
         		</div>
         		</nav>
-            </div>
+        
         	</header>
