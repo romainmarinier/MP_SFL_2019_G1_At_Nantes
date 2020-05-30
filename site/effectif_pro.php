@@ -14,17 +14,17 @@
         	</div>
  
  			<div id="conteneur4">
- 				<div class="element1">GARDIENS</div>
- 				<div class="element2">DEFENSEURS</div>
- 				<div class="element3">MILIEUX</div>
- 				<div class="element4">ATTAQUANTS</div>
+ 				<a href="#gardiens"><div class="element1">GARDIENS</div></a>
+ 				<a href="#defensuers"><div class="element2">DEFENSEURS</div></a>
+ 				<a href="#milieux"><div class="element3">MILIEUX</div></a>
+ 				<a href="#attaquants"><div class="element4">ATTAQUANTS</div></a>
  			</div>
 
  			<div id="gardiens">
  				<div class="element5">GARDIENS</div>
- 				<div class="element6"><img src="img/gardien1.png"></div>
- 				<div class="element7"><img src="img/gardien2.png"></div>
- 				<div class="element8"><img src="img/gardien3.png"></div>
+ 				<div class="element6"> <img src="img/gardien1.png"></div>
+ 				<div class="element7" ><img src="img/gardien2.png" ></div>
+ 				<div class="element8" ><img src="img/gardien3.png"></div>
  			</div>
 
  			<div id="defenseurs">
