@@ -13,6 +13,7 @@
          <link rel="stylesheet" href="css/effectif_pro.css" />
          <link rel="stylesheet" href="css/histoire.css" />
          <link rel="stylesheet" href="css/photo.css" />
+         <link rel="stylesheet" href="css/resultats.css" />
         <title> Atlético Nantais - <?php echo $page; ?> </title>
     </head>
 
@@ -26,7 +27,7 @@
         		<nav>
         		<div id="menu_naviguant">
         			<ul>
-        				<li><a href="#">RESULTATS/CALENDRIER</a></li>
+        				<li><a href="resultats.php">RESULTATS/CALENDRIER</a></li>
         				<li><a href="effectif_pro.php">EFFECTIF PRO</a></li>
         				<li><a href="histoire.php">HISTORIQUE</a></li>
         				<li><a href="photo.php">PHOTOS</a></li>
