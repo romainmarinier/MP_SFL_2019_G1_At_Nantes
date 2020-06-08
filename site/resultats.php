@@ -31,12 +31,14 @@
 						while ($donnees = $reponse->fetch())
 						{
 							?>
+							<div id="romain">
 							<p>
-								<strong>Competition :</strong>  <?php echo $donnees['Competition']; ?><br />
-								Match contre : <?php echo $donnees['Equipe adverse']; ?>,
-								Score : <?php echo $donnees['Score']; ?>,
-								Lieu : <?php echo $donnees['Lieu']; ?>,
+								<div class="competition">Competition : <?php echo $donnees['Competition']; ?></div><br />
+								<div class="score"> <strong id="red">ATLETICO NANTAIS &nbsp</strong> - <?php echo $donnees['Equipe adverse']; ?>
+								: <?php echo $donnees['Score']; ?>,
+								 à <?php echo $donnees['Lieu']; ?> </div>
 							</p>
+							</div>
 							<?php
 						}
 
