@@ -1,7 +1,44 @@
 #bdd
 {
-	background: rgb(12;12;12);
-	width: 300px; /* Défini la largeur */
+	
+	width: 1442px; /* Défini la largeur */
 	margin-left: -10px; /* Marge négative à gauche pour que le site occuppe tout l'espace du navigateur */
 	margin-top: -10px; /* Marge négative àau dessus pour que le site occuppe tout l'espace du navigateur */
+}
+
+#romain
+{
+	
+	height: 100px;
+	width: 1442px;
+	display: flex;
+	margin-top: 0px; /* Marge négative àau dessus pour que le site occuppe tout l'espace du navigateur */
+	margin-bottom: 1px;
+	margin-left: 3px;
+	display: flex;
+}
+
+.competition
+{
+	background-image: url(logo_championnat.png);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 500px;
+	color: black;
+}
+
+.score
+{
+	background: rgb(244,244,244);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 992px;
+	color: black;
+}
+
+#red
+{
+	color: red;
 }
