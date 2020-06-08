@@ -1,7 +1,7 @@
 #bdd
 {
-	background: red;
-	width: 1442px; /* Défini la largeur */
+	background: rgb(12;12;12);
+	width: 300px; /* Défini la largeur */
 	margin-left: -10px; /* Marge négative à gauche pour que le site occuppe tout l'espace du navigateur */
 	margin-top: -10px; /* Marge négative àau dessus pour que le site occuppe tout l'espace du navigateur */
 }
