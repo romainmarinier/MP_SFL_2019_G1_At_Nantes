@@ -15,7 +15,7 @@
  
  			<div id="conteneur4">
  				<a href="#gardiens"><div class="element1">GARDIENS</div></a>
- 				<a href="#defensuers"><div class="element2">DEFENSEURS</div></a>
+ 				<a href="#defenseurs"><div class="element2">DEFENSEURS</div></a>
  				<a href="#milieux"><div class="element3">MILIEUX</div></a>
  				<a href="#attaquants"><div class="element4">ATTAQUANTS</div></a>
  			</div>
