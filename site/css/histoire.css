@@ -6,6 +6,7 @@ overflow: hidden; /* Indique que tous les éléments qui dépasse du header sero
 width:1442px;/* Défini la largeur */
 height: 650px;/* Défini la hauteur */
 /*background: rgb(134,0,0);*/
+background-image: url(img/logo_championnat.png);
 }
 
 #DATES
@@ -16,6 +17,7 @@ padding-left: 400px;;
 width:650px;
 float:center;
 margin-top: 200px;
+
 }
 aside {
 top:100;
@@ -32,6 +34,6 @@ h2{
 
 #section2
 {
-	background-image: url("fooot.png");
+	background-image: url(site/img/fooot.png);
 }
 
