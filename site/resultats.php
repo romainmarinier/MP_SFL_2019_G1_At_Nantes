@@ -37,6 +37,7 @@
 								<div class="score"> <strong id="red">ATLETICO NANTAIS &nbsp</strong> - <?php echo $donnees['Equipe adverse']; ?>
 								: <?php echo $donnees['Score']; ?>,
 								 à <?php echo $donnees['Lieu']; ?> </div>
+								 <?php echo $donnees['logo']; ?>
 							</p>
 							</div>
 							<?php
