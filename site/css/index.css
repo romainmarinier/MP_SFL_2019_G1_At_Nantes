@@ -28,8 +28,8 @@
 	50%{transform: translate(-1445px,0);}       /* Animation qui permet le défilement d'image */
 	51%{transform: translate(-2890px,0);}
 	75%{transform: translate(-2890px,0);}
-	76%{transform: translate(-4340px,0);}
-	100%{transform: translate(-4340px,0);}
+	76%{transform: translate(-4330px,0);}
+	100%{transform: translate(-4330px,0);}
 }
 /* Fin codage du Bloc Principal */
 
