@@ -33,11 +33,11 @@
 							?>
 							<div id="romain">
 							<p>
-								<div class="competition">Competition : <?php echo $donnees['Competition']; ?></div><br />
-								<div class="score"> <strong id="red">ATLETICO NANTAIS &nbsp</strong> - <?php echo $donnees['Equipe adverse']; ?>
-								: <?php echo $donnees['Score']; ?>,
-								 à <?php echo $donnees['Lieu']; ?> </div>
-								 <?php echo $donnees['logo']; ?>
+								<div class="competition">Competition : <?php echo $donnees['competition']; ?></div><br />
+								<div class="score"> <img src="img/logo/Atletico.png"> &nbsp;<img src="img/logo/<?php echo $donnees['logo']; ?>" /> &nbsp;<strong id="red">ATLETICO NANTAIS &nbsp</strong> - &nbsp;<?php echo $donnees['adverse']; ?>
+								: &nbsp;<?php echo $donnees['score']; ?>,
+								 &nbsp;<?php echo $donnees['lieu']; ?> </div>
+								 
 							</p>
 							</div>
 							<?php
