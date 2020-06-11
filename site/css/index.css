@@ -35,43 +35,6 @@
 
 
 
-/* Début codage pied de page du site */
-
-footer
-{
-	width: 1442px;   /* Définit la taille du pied de page */
-	height: 145px;
-	background: rgb(134,0,0); /* Couleur du pied de page */
-	margin-left: -10px;
-	margin-top: -10px;
-	align-items: center; /* Centre les éléments du pied de page au centre */
-}
-
-#Bloc_entier
-{
-	display: flex;
-	height: 145px;
-	width: 1442px;
-}
-
-#Bloc_gauche
-{
-	display: flex;
-	background: rgb(134,0,0);
-	width: 500px;
-	align-items: center;
-	justify-content: center;
-}
-
-#Bloc_droite
-{
-	display: flex;
-	background: rgb(33,33,33);
-	width: 942px;
-	align-items: center;
-	justify-content: center;
-}
-
 
 
 
