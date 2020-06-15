@@ -1,0 +1,161 @@
+#page_entiere
+{
+	background: rgb(244,244,244);
+}
+
+#preambule
+{
+	color: black;
+	background: rgb(244,244,244);
+	height: 80px;
+	width: 1442px;
+	font-size: 30px;
+	font-weight: bold;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-left: -10px;
+}
+
+#presentation
+{
+	color: black;
+	background: rgb(244,244,244);
+	height: 200px;
+	width: 1442px;
+	display: flex;
+	align-items: center;
+	margin-left: -10px;
+	justify-content: center;
+	overflow: hidden;
+}
+
+#bestof
+{
+	height: 600px;
+	width: 900px;
+	background: rgb(240,0,0);
+	display: flex;
+    flex-direction: column;
+	margin-left: 280px;
+	margin-bottom: 70px;
+	justify-content: flex-end;
+}
+
+#bestof2
+{
+	height: 600px;
+	width: 900px;
+	background: rgb(240,0,0);
+	display: flex;
+    flex-direction: column;
+	margin-left: 280px;
+	margin-bottom: 70px;
+	justify-content: flex-end;
+}
+
+#bestof3
+{
+	height: 600px;
+	width: 900px;
+	background: rgb(240,0,0);
+	display: flex;
+    flex-direction: column;
+	margin-left: 280px;
+	margin-bottom: 70px;
+	justify-content: flex-end;
+}
+
+#bestof4
+{
+	height: 600px;
+	width: 900px;
+	background: rgb(240,0,0);
+	display: flex;
+    flex-direction: column;
+	margin-left: 280px;
+	margin-bottom: 70px;
+	justify-content: flex-end;
+}
+
+#bestof5
+{
+	height: 600px;
+	width: 900px;
+	background: rgb(240,0,0);
+	display: flex;
+    flex-direction: column;
+	margin-left: 280px;
+	margin-bottom: 70px;
+	justify-content: flex-end;
+}
+
+#bestof6
+{
+	height: 600px;
+	width: 900px;
+	background: rgb(240,0,0);
+	display: flex;
+    flex-direction: column;
+	margin-left: 280px;
+	margin-bottom: 70px;
+	justify-content: flex-end;
+}
+
+#bestof7
+{
+	height: 600px;
+	width: 900px;
+	background: rgb(240,0,0);
+	display: flex;
+    flex-direction: column;
+	margin-left: 280px;
+	margin-bottom: 70px;
+	justify-content: flex-end;
+}
+
+#bestof8
+{
+	height: 600px;
+	width: 900px;
+	background: rgb(240,0,0);
+	display: flex;
+    flex-direction: column;
+	margin-left: 280px;
+	margin-bottom: 70px;
+	justify-content: flex-end;
+}
+
+.soustitre
+{
+	width: 600px;
+	height: 50px;
+	background: rgb(134,0,0); 
+	display: flex;
+	align-items: flex-end;
+	font-size: 35px;
+	font-weight: bold;
+}
+
+.resume
+{
+	width: 600px;
+	height: 30px;
+	background: rgb(134,0,0); 
+	display: flex;
+	align-items: center;
+	font-weight: bold;
+}
+
+
+#conclusion
+{
+	color: black;
+	background: rgb(244,244,244);
+	height: 200px;
+	width: 1442px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-left: -10px;
+}
