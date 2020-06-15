@@ -20,7 +20,7 @@
 
 .competition
 {
-	background-image: url(logo_championnat.png);
+	background-image: url(image/logo_championnat.png);
 	display: flex;
 	align-items: center;
 	justify-content: center;
