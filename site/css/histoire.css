@@ -49,7 +49,7 @@ font-weight: bold;
 {
 height: 650px;/* Défini la hauteur */
 width: 1442px;
-background-image: url("titre.png");	
+background-image: url("image/titre.png");	
 color: rgb(255,255,255);
 text-align: center; /* centré */ 
 font-size: 20px;  
@@ -62,7 +62,7 @@ font-weight: bold;
 {
 height: 650px;/* Défini la hauteur */
 width: 1442px;
-background-image: url("coupe.png");
+background-image: url("image/coupe.png");
 color: rgb(255,255,255);
 text-align: center; /* centré */ 
 font-size: 20px;  
@@ -76,7 +76,7 @@ font-weight: bold;
 {
 height: 650px;/* Défini la hauteur */
 width: 1442px;
-background-image: url("ronaldinho.png");
+background-image: url("image/ronaldinho.png");
 color: rgb(255,255,255);	
 text-align: center; /* centré */ 
 font-size: 20px;  
@@ -87,7 +87,7 @@ font-weight: bold;
 {
 height: 650px;/* Défini la hauteur */
 width: 1442px;
-background-image: url("ldc.png");
+background-image: url("image/ldc.png");
 color: rgb(255,255,255);
 text-align: center; /* centré */ 
 font-size: 20px;  
