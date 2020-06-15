@@ -1,29 +1,7 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8" />
-         <link rel="stylesheet" href="histoire.css" />
-        <title>Atlético Nantais - Site officiel</title>
-    </head>
-
-    <body>
-            <header>
-			<div id="conteneur1">
-        		<div id="logo">
-        			<div class="le_logo"> <p> <img src="/Users/romainmarinier/Documents/GitHub/MP_SFL_2019_G1_At_Nantes/Photos présentes sur site/Logo Atlético nantais.png"> </p> </div>
-        		</div>
-
-        		<nav>
-        		<div id="menu_naviguant">
-        			<ul>
-        				<li><a href="#">RESULTATS/CALENDRIER</a></li>
-        				<li><a href="#">EFFECTIF PRO</a></li>
-        				<li><a href="#">HISTORIQUE</a></li>
-        				<li><a href="#">PHOTOS</a></li>
-        			</ul>
-        		</div>
-        		</nav>
-        	</div>
+<?php
+            $page="Historique";
+            include 'header.inc.php';
+            ?>
 
         	<div id="conteneur2">
         		<div class="text">HISTORIQUE</div>
@@ -90,3 +68,6 @@
                     <h1>À propos de l'equipe</h1>
                 </aside>
             
+             <?php
+            include 'footer.inc.php';
+            ?>
