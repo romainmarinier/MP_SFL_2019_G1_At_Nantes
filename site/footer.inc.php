@@ -9,7 +9,7 @@
 						try
 						{
 		// On se connecte à MySQL
-							$bdd = new PDO('mysql:host=localhost;dbname=atletico;charset=utf8', 'root', 'root');
+							$bdd = new PDO('mysql:host=localhost;dbname=atletico;charset=utf8', 'atleticouser', 'Nantes44');
 						}
 						catch(Exception $e)
 						{
