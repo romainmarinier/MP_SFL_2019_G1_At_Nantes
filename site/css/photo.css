@@ -32,7 +32,7 @@
 
 #bestof
 {
-	height: 600px;
+	height: 680px;
 	width: 900px;
 	display: flex;
     flex-direction: column;
@@ -46,7 +46,7 @@
 .soustitre
 {
 	width: 600px;
-	height: 100px;
+	height: 50px;
 	background: rgb(134,0,0); 
 	display: flex;
 	align-items: flex-end;
@@ -58,7 +58,7 @@
 {
 	width: 600px;
 	height: 30px;
-	background: rgb(134,,0); 
+	background: rgb(134,0,0); 
 	display: flex;
 	align-items: center;
 	font-weight: bold;
